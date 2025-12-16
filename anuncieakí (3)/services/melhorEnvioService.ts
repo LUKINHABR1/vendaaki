@@ -1,0 +1,1 @@
+// Arquivo removido (sem uso na versão atual).
